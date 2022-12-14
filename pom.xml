@@ -13,7 +13,7 @@
     <artifactId>spring-boot-jsp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-jsp</name>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <dependencyManagement>
         <dependencies>
